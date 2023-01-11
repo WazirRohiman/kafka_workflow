@@ -48,7 +48,7 @@ bin/kafka-console-consumer.sh --topic news --from-beginning --bootstrap-server l
 --------------------------------------
 
 
-Kafka uses the directory ``` /tmp/kakfa-logs to store the messages.```
+Kafka uses the directory ``` /tmp/kakfa-logs``` to store the messages.
 
 Explore the folder news-0 inside ```/tmp/kakfa-logs.```
 
